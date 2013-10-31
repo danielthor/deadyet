@@ -1,7 +1,7 @@
 Dead Yet?
 =========
 
-Simple Sinatra app to lookup is a person is dead or not.
+Simple Sinatra app to lookup if a person is dead or not.
 
 Usage
 -----
