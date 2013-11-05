@@ -2,6 +2,7 @@
 %html
   %head
     %title Is #{@name} dead yet?
+    %link{ :href => "/stylesheets/application.css", :media => "screen", :rel => "stylesheet" }
   %body
     %h1.question Is #{@name} dead yet?
     %p.answer= (@is_deceased ? 'Yes' : 'Not yet')

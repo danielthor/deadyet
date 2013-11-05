@@ -1,0 +1,12 @@
+body {
+  font: 12px Helvetica;
+  text-align: center;
+}
+
+h1.question {
+  font-size: 3em;
+}
+
+p.answer {
+  font-size: 10em;
+}
