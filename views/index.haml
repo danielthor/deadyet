@@ -1,3 +1,7 @@
-%h1= "Is " + @name + " dead yet?"
-
-%p= (@is_deceased ? 'Yes' : 'Not yet')
+!!! 5
+%html
+  %head
+    %title Is #{@name} dead yet?
+  %body
+    %h1.question Is #{@name} dead yet?
+    %p.answer= (@is_deceased ? 'Yes' : 'Not yet')
