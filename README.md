@@ -12,4 +12,4 @@ Usage
 
 Demo
 ----
-http://eerie-alien-1526.herokuapp.com
+http://deadyet.herokuapp.com/
