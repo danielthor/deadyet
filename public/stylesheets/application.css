@@ -10,3 +10,7 @@ h1.question {
 p.answer {
   font-size: 10em;
 }
+
+form.search {
+  float: right;
+}
